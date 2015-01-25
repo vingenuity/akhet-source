@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "D:\\Perforce\\TGP2\\UDK\\Development\\Src"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "D:\\Perforce\\TGP2\\UDK\\UDKGame\\Config"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "D:\\Perforce\\TGP2\\UDK\\UDKGame\\Localization"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "D:\\Perforce\\TGP2\\UDK\\Engine\\Config"
+		}
+	]
+}

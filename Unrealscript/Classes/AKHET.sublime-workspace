@@ -1,0 +1,1174 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"can",
+				"cannotFireSecondary	buffer"
+			],
+			[
+				"cann",
+				"cannotFirePrimary	local bool "
+			],
+			[
+				"AmmoEmpty",
+				"AmmoEmptyParticleComponent	var ParticleSystemComponent "
+			],
+			[
+				"calcul",
+				"CalculateRatioOfCurrentToMaxAmmo	(int currentAmmo, int maxAmmo)"
+			],
+			[
+				"seconds",
+				"secondsAfterHitToStartRegenerating	var int "
+			],
+			[
+				"rechar",
+				"rechargeRateThisSecond	local float "
+			],
+			[
+				"rechargeR",
+				"rechargeRateThisSecond	local int "
+			],
+			[
+				"distanceTo",
+				"distanceFromPlayerToFlag	buffer"
+			],
+			[
+				"flag",
+				"flagOverlayHideDistance	buffer"
+			],
+			[
+				"flagOv",
+				"flagOverlayTextureSize	var Vector2D "
+			],
+			[
+				"fl",
+				"flagOverlayTextureSize	var Vector2D "
+			],
+			[
+				"flagOver",
+				"flagOverlayTexture	var Texture2D "
+			],
+			[
+				"dis",
+				"distanceFromPlayerToFlag	local float "
+			],
+			[
+				"selec",
+				"selectedXResolution	local int "
+			],
+			[
+				"drop",
+				"dropdown_SetLanguage	var GFXObject "
+			],
+			[
+				"LANGUAGE_",
+				"LANGUAGE_ESM"
+			],
+			[
+				"scre",
+				"screenModeSelection	local bool "
+			],
+			[
+				"SetResolu",
+				"SetResolutionFromComboAndCheckBox	()"
+			],
+			[
+				"sc",
+				"screenModeSelection	local bool "
+			],
+			[
+				"Popu",
+				"PopulateOptionsDialogs	()"
+			],
+			[
+				"resolu",
+				"resolutionString	buffer"
+			],
+			[
+				"resol",
+				"resolutionString	buffer"
+			],
+			[
+				"scree",
+				"screenResolutionList	var array< string > "
+			],
+			[
+				"YouAre",
+				"YouAreOnBlueMessage	var localized string "
+			],
+			[
+				"Flag",
+				"FlagStolenFromAnubisString"
+			],
+			[
+				"FlagS",
+				"FlagStolenFromRaString"
+			],
+			[
+				"AK_Loca",
+				"AK_Localizer	Class"
+			],
+			[
+				"cur",
+				"currentLanguage"
+			],
+			[
+				"loc",
+				"localizationFile_XXX	var string "
+			],
+			[
+				"locali",
+				"localizationFile_ESM	var string "
+			],
+			[
+				"localization",
+				"localizationFile_ENG	var string "
+			],
+			[
+				"time",
+				"timeBetweenFlagScoresSeconds	var int "
+			],
+			[
+				"scr",
+				"screenResolutionList	var array< string > "
+			],
+			[
+				"IsFla",
+				"IsFlagPlacedInAnubisZone	(int flagID)"
+			],
+			[
+				"Zone",
+				"zoneTeamIndex"
+			],
+			[
+				"zone",
+				"zoneTeamIndex"
+			],
+			[
+				"AK_Stock",
+				"AK_Stockpile_GRI	Class"
+			],
+			[
+				"RO",
+				"Role	var ENetRole "
+			],
+			[
+				"diretion",
+				"directionFromPlayerToFlag	local vector "
+			],
+			[
+				"holdin",
+				"holdingPawn	local UTPawn "
+			],
+			[
+				"menu",
+				"menuButtonString_Start	var localized string "
+			],
+			[
+				"DepthP",
+				"SetDepthPriorityGroup	(ESceneDepthPriorityGroup NewDepthPriorityGroup)"
+			],
+			[
+				"menuString_Host",
+				"menuString_Host_GiveToPlayers	var localized string "
+			],
+			[
+				"menuButtonStr",
+				"menuButtonString_Controls	var localized string "
+			],
+			[
+				"UTInv",
+				"UTInventoryManager	Class"
+			],
+			[
+				"Mess",
+				"MessageIndex	param int "
+			],
+			[
+				"AK_M",
+				"AK_Message_Kills"
+			],
+			[
+				"IsFlagP",
+				"IsFlagPlacedInRaZone	(int flagID)"
+			],
+			[
+				"bL",
+				"bLockedFOV	var bool "
+			],
+			[
+				"LastInv",
+				"LastInvWeapons	var array<bool> "
+			],
+			[
+				"team",
+				"teamIndex"
+			],
+			[
+				"tim",
+				"timeLeftUntilScoringSeconds"
+			],
+			[
+				"pede",
+				"PedestalMeshComponent"
+			],
+			[
+				"Calcu",
+				"CalculateNumberOfFlagsInRaZone	()"
+			],
+			[
+				"NumberOfFlag",
+				"CalculateNumberOfFlagsInRaZone	()"
+			],
+			[
+				"FLAG_Pl",
+				"FLAG_PlacedInAnubisZone	buffer"
+			],
+			[
+				"FLAG",
+				"FLAG_HeldByRa	buffer"
+			],
+			[
+				"FLAG_P",
+				"FLAG_PlacedInAnubisZone	buffer"
+			],
+			[
+				"FLAG_H",
+				"FLAG_HeldAnubis	buffer"
+			],
+			[
+				"stockp",
+				"stockpileMessageClass"
+			],
+			[
+				"bFor",
+				"bForceNetUpdate	var transient bool "
+			],
+			[
+				"out",
+				"OuterRingMeshComponent"
+			],
+			[
+				"Out",
+				"outerRingMesh"
+			],
+			[
+				"point",
+				"pointsScoredThisRound"
+			],
+			[
+				"RA_S",
+				"RA_SCORED_1"
+			],
+			[
+				"st",
+				"startupMessageClass	var class< LocalMessage > "
+			],
+			[
+				"GameObj",
+				"GameObjRot3P	var rotator "
+			],
+			[
+				"timeBe",
+				"timeBeforeMatchStart"
+			],
+			[
+				"remain",
+				"RemainingTime	var int "
+			],
+			[
+				"AK_S",
+				"AK_Stockpile_Game"
+			],
+			[
+				"AK_ST",
+				"AK_Stockpile_Game	Class"
+			],
+			[
+				"AK_Stockpi",
+				"AK_Stockpile_ScoreZone"
+			],
+			[
+				"Game",
+				"GameReplicationInfo"
+			],
+			[
+				"AK_Sto",
+				"AK_Stockpile_GRI	buffer"
+			],
+			[
+				"sho",
+				"shouldResetScoringTimer	var bool "
+			],
+			[
+				"timeLef",
+				"timeLeftUntilScoringSeconds	var int "
+			],
+			[
+				"second",
+				"secondsLeftInThisMinute	local int "
+			],
+			[
+				"AK_Fami",
+				"AK_FamilyInfo_Servant_Anubis	Class"
+			],
+			[
+				"AK_F",
+				"AK_FamilyInfo_Servant_Anubis	Class"
+			],
+			[
+				"AK_Famn",
+				"AK_FamilyInfo_Servant_Ra	Class"
+			],
+			[
+				"Atta",
+				"AttachmentClass	var class<UTWeaponAttachment> "
+			],
+			[
+				"score",
+				"radiusOfScoreZone"
+			],
+			[
+				"Fl",
+				"flagResetTime"
+			],
+			[
+				"UTWeap_Ro",
+				"UTWeap_RocketLauncher_Content	Class"
+			],
+			[
+				"NUMB",
+				"NUMBER_OF_SCORE_ZONES	var const int "
+			],
+			[
+				"Perform",
+				"PerformEndGameHandling	()"
+			],
+			[
+				"Bloc",
+				"BlockZeroExtent	var(Collision) const bool "
+			],
+			[
+				"swar",
+				"swarmDamagePerSecond	buffer"
+			],
+			[
+				"AK_Pro",
+				"AK_Projectile_ScarabNest	Class"
+			],
+			[
+				"ini",
+				"initialFlightVector	var vector "
+			],
+			[
+				"newF",
+				"newFlightVectorX	buffer"
+			],
+			[
+				"newFl",
+				"newFlightVectorZ	buffer"
+			],
+			[
+				"Y",
+				"initialFlightVector.Y	local vector flightVectorX = "
+			],
+			[
+				"random",
+				"randomizedZVector	buffer"
+			],
+			[
+				"ran",
+				"randomizedYVector	buffer"
+			],
+			[
+				"posi",
+				"positionWhereWeaponFired	local vector "
+			],
+			[
+				"instig",
+				"instigatorAimDirectionZ"
+			],
+			[
+				"in",
+				"instigatorAimDirectionY"
+			],
+			[
+				"fir",
+				"firedProjectile"
+			],
+			[
+				"pos",
+				"positionWhereWeaponFired"
+			],
+			[
+				"UTWeap",
+				"UTWeap_RocketLauncher	Class"
+			],
+			[
+				"shot",
+				"shotsFiredPerTriggerPull	buffer"
+			],
+			[
+				"UTWeap_",
+				"UTWeap_ShockRifle	Class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "AK_PlayerReplicationInfo.uc",
+			"settings":
+			{
+				"buffer_size": 598,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Perforce/TGP2/UDK/Development/Src/Engine/Classes/PlayerController.uc",
+			"settings":
+			{
+				"buffer_size": 252272,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "AK_Stockpile_Game.uc",
+			"settings":
+			{
+				"buffer_size": 11118,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "AK_Localizer.uc",
+			"settings":
+			{
+				"buffer_size": 1248,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Perforce/TGP2/UDK/UDKGame/Config/UDKGame.ini",
+			"settings":
+			{
+				"buffer_size": 34115,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "AK_MainMenu.uc",
+			"settings":
+			{
+				"buffer_size": 21043,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "AK_Weapon_BattleStaff.uc",
+			"settings":
+			{
+				"buffer_size": 8504,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Perforce/TGP2/UDK/UDKGame/Config/UDKSystemSettings.ini",
+			"settings":
+			{
+				"buffer_size": 36513,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 157.0,
+		"selected_items":
+		[
+			[
+				"Package Control: en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: di",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 714.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Perforce/TGP2/UDK/Development/Src",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes",
+		"/D/Perforce/TGP2/UDK/Development/Src/Engine",
+		"/D/Perforce/TGP2/UDK/Development/Src/Engine/Classes",
+		"/D/Perforce/TGP2/UDK/UDKGame/Config"
+	],
+	"file_history":
+	[
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Weapon_Base.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Weapon_ScarabGun.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTPlayerController.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Projectile_ScarabNest.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Message_Metagame.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_PauseMenu.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Stockpile_HUD_Main.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTGameReplicationInfo.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Stockpile_HUD_Scaleform.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTHUDBase.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTGFxTweenableMoviePlayer.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_GFxHUD.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/GFxUI/Classes/GFxMoviePlayer.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTHUD.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTProjectile.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTWeapon.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTPawn.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTGame.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTCTFGame.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTTeamGame.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/GameInfo.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/GameFramework/Classes/FrameworkGame.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/UDKBase/classes/SimpleGame.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/UDKBase/classes/UDKGame.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_MainMenu.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_WeaponPedestal.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Pawn.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTInventoryManager.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTPickupFactory.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTWeaponPickupFactory.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/InventoryManager.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/UDKBase/classes/UDKPickupFactory.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTVehicle_Scorpion.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTDeathmatch.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/Engine/Classes/Weapon.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/Engine/Classes/Pawn.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/GameFramework/Classes/GamePawn.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UDKBase/classes/UDKPawn.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UDKBase/classes/UDKWeapon.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Stockpile_ScoreZone.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Stockpile_Flag.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTGameObjective.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Game_ScoreZone.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_PlayerController.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Stockpile_Flag_Neutral.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Flag_Ra.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UDKBase/classes/UDKPickupFactory.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UDKBase/classes/UDKHUD.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Stockpile_Game.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Stockpile_FlagSpawn.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTAnimNodeSeqWeap.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTDroppedPickup.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/UDKBase/classes/UDKPawn.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTAnimNodeCopyBoneTranslation.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/Engine/Classes/GameViewportClient.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/Engine/Classes/Actor.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/Engine/Classes/HUD.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/GameFramework/Classes/MobileHUD.uc",
+		"/D/Perforce/Capstone/UDK/Development/Src/UDKBase/classes/UDKHUD.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTPickupFactory_HealthVial.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTHealthPickupFactory.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTInventory.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTItemPickupFactory.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTPickupInventory.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTAnnouncer.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTFamilyInfo.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTFamilyInfo_Liandri_Male.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTPlayerReplicationInfo.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_DamageType_Base.uc",
+		"/D/Perforce/TGP2/UDK/UDKGame/Config/DefaultInput.ini",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Localizer.uc",
+		"/F/INSTALL/FMCB_CFG/FREEMCB.CNF",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_PlayerReplicationInfo.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Message_Kills.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTDeathMessage.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTMultiKillMessage.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_TeamInfo.uc",
+		"/D/Perforce/TGP2/UDK/UDKGame/Localization/INT/Akhet_ENG.int",
+		"/D/Perforce/TGP2/UDK/UDKGame/Localization/INT/Akhet_ESM.int",
+		"/D/Perforce/TGP2/UDK/UDKGame/Localization/INT/Akhet_XXX.int",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Message_Stockpile.uc",
+		"/D/Perforce/TGP2/UDK/UDKGame/Config/DefaultEngine.ini",
+		"/D/Perforce/TGP2/UDK/UDKGame/Config/DefaultEngineUDK.ini",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTTeamInfo.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Message_Flag.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Message_Victory.uc",
+		"/D/Perforce/TGP2/UDK/UDKGame/Localization/INT/CastleGame.int",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Message_TeamSelection.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Weapon_BattleStaff.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Game_Flag.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Weapon_WristGun.uc",
+		"/D/Perforce/TGP2/UDK/UDKGame/Config/DefaultGameUDK.ini",
+		"/D/Perforce/TGP2/UDK/UDKGame/Config/UDKGame.ini",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Stockpile_GRI.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Weapon_SMG.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/Engine/Classes/MaterialInstance.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTAttachment_LinkGun.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/Engine/Classes/AudioComponent.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Trap_ScarabSwarm.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/Engine/Classes/Inventory.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTCarriedObject.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UTGame/Classes/UTCTFFlag.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Game.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_OnlineGameSettings.uc",
+		"/D/Perforce/TGP2/UDK/UDKGame/Config/UDKEngine.ini",
+		"/D/Perforce/TGP2/UDK/Development/Src/Engine/Classes/OnlineGameInterface.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/Engine/Classes/Settings.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/Engine/Classes/OnlineGameSettings.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UDKBase/classes/UDKGameSettingsCommon.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_OnlineSearchSettings.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_OnlineConstants.uci",
+		"/C/Users/AW 18/Dropbox/Apps/Sublime Text 3/Data/Packages/User/UnrealScriptIDE.sublime-settings",
+		"/C/Users/AW 18/Dropbox/Apps/Sublime Text 3/Data/Packages/UnrealScriptIDE/UnrealScriptIDE.sublime-settings",
+		"/D/Perforce/TGP2/UDK/UDKGame/Config/DefaultGame.ini",
+		"/D/Perforce/TGP2/UDK/Development/Src/Engine/Classes/PlayerController.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/GameFramework/Classes/GamePlayerController.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/UDKBase/classes/UDKPlayerController.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/Engine/Classes/Controller.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/GFxUI/Classes/GFxMoviePlayer.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/Core/Classes/Object.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/Engine/Classes/GameMessage.uc",
+		"/D/Perforce/TGP2/UDK/Engine/Localization/INT/Engine.int",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_DamageType_Hand.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Projectile_WristGun.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_Projectile_GhostSkull.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_DamageType_SmgSticky.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_DamageType_StaffShot.uc",
+		"/D/Perforce/TGP2/UDK/Development/Src/AKHET/Classes/AK_DamageType_Skull.uc"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ResX",
+			"SetSkinInstance",
+			"ForceFeedback",
+			"ResX",
+			"Resolution",
+			"ShowMenu",
+			"DisconnectCommand",
+			"QuitToMainMenu",
+			"exec function Disconnect",
+			"QuitToM",
+			"ShowMenu",
+			"TogglePauseMenu",
+			"Pause",
+			"ExportS",
+			"Sword",
+			"PlayFiringSound",
+			"WeaponFireSnd",
+			"SoundCue",
+			"EndGame",
+			"halfanimslot",
+			"BodySlot",
+			"PendingWeapon",
+			"SetcurrentWeapon",
+			"Find",
+			"BaseMesh",
+			"Base",
+			"FormatTime",
+			"CameraZOffset",
+			"behindview",
+			"Weapon",
+			"MyLightEnvironment",
+			"SetShowScores",
+			"EndGame",
+			"replication",
+			"EndGameFocus",
+			"SetPawnRBC",
+			"EmoteAnim",
+			"Emote ",
+			"Emote",
+			"PlayCustomAnim",
+			"PlayWeaponAnimation",
+			"Fire",
+			"WeapAnimType",
+			"EWAT",
+			"WeaponFired",
+			"Fire",
+			"BladeBlend",
+			"BoosterBlend",
+			"AnimFire",
+			"AnimSlot",
+			"PlayCustomAnim",
+			"FullBodyRagdoll",
+			"CheckScore",
+			"EndGame",
+			"DrawDebug",
+			"PivotTranslation",
+			"AttachComponentToSocket",
+			"Socket",
+			"MapPrefixes",
+			"InitAnim",
+			"AnimTree",
+			"PlayCustom",
+			"DroppedPickup",
+			"RB_BodySetup",
+			"precachedphys",
+			"Jump",
+			"OnPlayAnim",
+			"FullBodyAnimSlot",
+			"TopHalfAnim",
+			"PlayEmote",
+			"LocalPlayer",
+			"GamePlayers",
+			"SplitScreen",
+			"splitscreen",
+			"split",
+			"DrawText",
+			"DrawTextCentered",
+			"GetFontSizeIndex",
+			"Font",
+			"Hudfonts",
+			"SetPhysicsAsset",
+			"Physics",
+			"PhysicsAsset",
+			"ShouldRespawn",
+			"Sleeping",
+			"StartSleeping",
+			"Start",
+			"Animation",
+			"Play",
+			"AnimSet",
+			"BeginAnimControl",
+			"running",
+			"WPawnSkel",
+			"Mesh",
+			"LeftFootBone",
+			"DefaultMeshScale",
+			"CharClass",
+			"CharClassInfo",
+			"Multikillmessage",
+			"Double Kill",
+			"UTTeamInfo",
+			"Teams",
+			"GameMessage",
+			"Teams",
+			"GameMessage",
+			"Tick",
+			"Socket",
+			"UTCrosshairs",
+			"ammo",
+			"empty",
+			"SetSkin",
+			"Spawn",
+			"Died",
+			"death",
+			"LinkHitSound",
+			"FadeIn",
+			"AudioComponent",
+			"pickupSound",
+			"Health",
+			"UTPawn",
+			"AI",
+			"ipd",
+			"OnlineGameInterface",
+			"class Client",
+			"Client",
+			"ClientReceive",
+			"ReceiveLocalizedMessage",
+			"SendMessage"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"SoundCue'AK_AmbNoise.Silence_Cue'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "AK_PlayerReplicationInfo.uc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 598,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/UnrealScriptIDE/UnrealScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Perforce/TGP2/UDK/Development/Src/Engine/Classes/PlayerController.uc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 252272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/UnrealScriptIDE/UnrealScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "AK_Stockpile_Game.uc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10327,
+								10330
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/UnrealScriptIDE/UnrealScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "AK_Localizer.uc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/UnrealScriptIDE/UnrealScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/Perforce/TGP2/UDK/UDKGame/Config/UDKGame.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34113,
+								34113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 22734.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "AK_MainMenu.uc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21043,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14783,
+								14782
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/UnrealScriptIDE/UnrealScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7440.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "AK_Weapon_BattleStaff.uc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6299,
+								6262
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/UnrealScriptIDE/UnrealScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5460.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/D/Perforce/TGP2/UDK/UDKGame/Config/UDKSystemSettings.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3600.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.UnrealScriptAutocomplete_panel":
+	{
+		"height": 212.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "AKHET.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
